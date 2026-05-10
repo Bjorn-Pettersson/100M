@@ -4,6 +4,10 @@
 
 ![Settlement renders and site plan](assets/renders_and_plan.png)
 
+https://github.com/user-attachments/assets/Algo.mp4
+
+*The WFC algorithm collapsing tile by tile across the Azraq camp site plan.*
+
 With over 101 million people forcibly displaced worldwide (UNHCR, 2022), the need for faster, better-coordinated emergency settlement planning has never been more urgent. This project investigates how the **Wave Function Collapse (WFC) algorithm** can accelerate and improve the generation of emergency settlement layouts — tested against the Azraq refugee settlement in Jordan as a real-world case study.
 
 Produced as part of a Master's in Architecture — Computation in Architecture at the Royal Danish Academy (2021–2022).
