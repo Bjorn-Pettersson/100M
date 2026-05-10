@@ -2,6 +2,8 @@
 
 > *Exploring algorithmic design methodology for emergency settlement design.*
 
+![Settlement renders and site plan](assets/renders_and_plan.png)
+
 With over 101 million people forcibly displaced worldwide (UNHCR, 2022), the need for faster, better-coordinated emergency settlement planning has never been more urgent. This project investigates how the **Wave Function Collapse (WFC) algorithm** can accelerate and improve the generation of emergency settlement layouts — tested against the Azraq refugee settlement in Jordan as a real-world case study.
 
 Produced as part of a Master's in Architecture — Computation in Architecture at the Royal Danish Academy (2021–2022).
@@ -26,6 +28,9 @@ Produced as part of a Master's in Architecture — Computation in Architecture a
 ## How It Works
 
 The framework is implemented as a Grasshopper definition with a set of custom Python scripting components. The workflow proceeds in the following stages:
+
+![Grasshopper script overview](assets/grasshopper_script.png)
+*Full Grasshopper script — from Chat GPT UI input through WFC collapse, tile rendering, and geometry placement.*
 
 ### 1. Prepare — Build the Graph
 A site boundary and grid (e.g. 100×100 m tiles) are fed into a custom `graph` component. It reads plot lines and corner geometry to produce a node/edge/curve graph that represents the settlement site as a spatial network.
