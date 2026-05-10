@@ -4,7 +4,10 @@
 
 ![Settlement renders and site plan](assets/renders_and_plan.png)
 
-https://github.com/user-attachments/assets/Algo.mp4
+
+https://github.com/user-attachments/assets/0103fb3a-6df4-4738-8e9e-9eff19c12575
+
+
 
 *The WFC algorithm collapsing tile by tile across the Azraq camp site plan.*
 
